@@ -1,13 +1,12 @@
 {
-    "name": "codeigniter4/appstarter",
-    "description": "CodeIgniter4 starter app",
+    "name": "ocikyamin/simpsb",
+    "description": "Sistem Penerimaan Santri Baru",
     "license": "MIT",
     "type": "project",
-    "homepage": "https://codeigniter.com",
+    "homepage": "https://github.com/ocikyamin/SIMPSB-BSI",
     "support": {
-        "forum": "https://forum.codeigniter.com/",
-        "source": "https://github.com/codeigniter4/CodeIgniter4",
-        "slack": "https://codeigniterchat.slack.com"
+        "forum": "https://github.com/ocikyamin/SIMPSB-BSI",
+        "source": "https://github.com/ocikyamin/SIMPSB-BSI"
     },
     "require": {
         "php": "^7.4 || ^8.0",
