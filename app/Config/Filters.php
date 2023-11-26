@@ -96,6 +96,7 @@ class Filters extends BaseConfig
         // Admin 
         'akses_panitia' => [
             'before' => [
+                'admin/master',
                 'admin/setting',
                 'admin/users',
                 'admin/logs',

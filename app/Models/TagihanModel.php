@@ -14,7 +14,7 @@ class TagihanModel extends Model
     protected $protectFields    = false;
     protected $allowedFields    = [];
 
-    public function GetBiaya($is_gender=null, $is_asrama=null,$jenis_biaya)
+    public function GetBiaya(string $is_gender=null, string $is_asrama=null,$jenis_biaya)
     {
         return $this->db->table('master_biaya')
         ->where('is_gender', $is_gender)
